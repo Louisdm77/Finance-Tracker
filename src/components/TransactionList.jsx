@@ -60,7 +60,7 @@ const TransactionList = () => {
           className="border border-gray-300 dark:border-gray-600 rounded-lg p-2 bg-white dark:bg-white"
         />
       </div>
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-x-auto">
+      <div className="bg-white dark:bg-gray-200 rounded-lg shadow-md overflow-x-auto">
         <table className="w-full">
           <thead>
             <tr className="bg-gray-100 dark:bg-gray-700 text-white">
